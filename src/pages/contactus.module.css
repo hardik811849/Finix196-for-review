@@ -1,0 +1,7 @@
+.hs-main-iframe-wrapper iframe[src*="generate-leads"] {
+  display: none !important;
+  visibility: hidden !important;
+}
+.hs-form-privacy-policy {
+  display: none !important;
+}

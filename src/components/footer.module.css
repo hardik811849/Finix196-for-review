@@ -1,0 +1,32 @@
+/* Global CSS */
+.hbsptForm {
+  width: 100%;
+}
+
+.hbsptForm label {
+  display: flex;
+  width: 30%;
+  text-align: right;
+  margin-right: 2%;
+}
+
+.hbsptForm input[type="text"],
+.hbsptForm input[type="email"],
+.hbsptForm textarea {
+  width: 65%;
+}
+
+.hbsptForm .hs-form-field {
+  margin-bottom: 20px;
+}
+.hs-main-iframe-wrapper iframe[src*="generate-leads"] {
+  display: none;
+  visibility: hidden;
+}
+
+.hs-form__virality-link {
+  display: none !important;
+}
+.hs-form-privacy-policy {
+  display: none !important;
+}
